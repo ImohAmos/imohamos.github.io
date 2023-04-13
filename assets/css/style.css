@@ -1105,8 +1105,9 @@ section {
   border-radius: 9px;
 }
 .ref_reverted {
-  background: #149ddd;
+  margin: 0 auto;
 }
 .ref_reverted a {
   color: #fff;
+  background: #149ddd;
 }
